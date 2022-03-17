@@ -1,6 +1,8 @@
 <div align="center">
+    
 <a href="https://ibb.co/pPscxYs"><img src="https://i.ibb.co/26LxyGL/4834078.jpg" alt="4834078" border="0"></a>
-# **RIN : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
+
+    # **RIN : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/oreki-san/rin/badge)](https://www.codefactor.io/repository/github/oreki-san/rin)
 
@@ -29,7 +31,7 @@ Button : To Deploy
 ## 💻 Deploy/Hosting Guide
 
 -   Section Moved to
-    [ITACHI-Guides](https://github.com/Oreki-san/Eru-Guide/blob/main/README.md)
+    [ITACHI-Guides](https://github.com/NemasisDarkX/ITACHI#readme)
 
 ## 🍥 Features of the Repo
 
