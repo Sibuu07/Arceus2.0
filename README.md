@@ -1,6 +1,5 @@
 <div align="center">
-<a href="https://ibb.co/wQ4GK21"><img src="https://user-images.githubusercontent.com/77143046/143940049-de5a0b73-0a67-408f-9710-60362feaba75.jpg" alt="whatsapp-botto-rin-init" border="0"></a>
-
+<a href="https://ibb.co/pPscxYs"><img src="https://i.ibb.co/26LxyGL/4834078.jpg" alt="4834078" border="0"></a>
 # **RIN : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/oreki-san/rin/badge)](https://www.codefactor.io/repository/github/oreki-san/rin)
@@ -9,14 +8,11 @@
 
 > A Fully Modular and Efficient Bot <br>
 
-Button : If you are deploying normally
+Button : To Deploy
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Oreki-san/RIN)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/NemasisDarkX/ITACHI.git)
 
-Button : If you are deploying from a fork
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 </div><br/>
 <br/>
@@ -33,7 +29,7 @@ Button : If you are deploying from a fork
 ## 💻 Deploy/Hosting Guide
 
 -   Section Moved to
-    [RIN-Guides](https://github.com/Oreki-san/Eru-Guide/blob/main/README.md)
+    [ITACHI-Guides](https://github.com/Oreki-san/Eru-Guide/blob/main/README.md)
 
 ## 🍥 Features of the Repo
 
