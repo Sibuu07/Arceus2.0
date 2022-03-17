@@ -2,7 +2,7 @@
     
 <a href="https://ibb.co/pPscxYs"><img src="https://i.ibb.co/26LxyGL/4834078.jpg" alt="4834078" border="0"></a>
 
-# **RIN : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
+# **ITACHI : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/oreki-san/rin/badge)](https://www.codefactor.io/repository/github/oreki-san/rin)
 
