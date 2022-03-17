@@ -28,7 +28,8 @@ export default class Command extends BaseCommand {
                                                                                                                                                                        
              )
     }
-
+}
+                                           
     run = async (M: ISimplifiedMessage): Promise<void> => {
         await M.reply(`*bye* 👋`)
         await this.client.groupLeave(M.from).catch(() => M.reply('Failed to leave the Group'))
