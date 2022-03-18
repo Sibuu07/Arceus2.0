@@ -22,7 +22,7 @@ export default class Command extends BaseCommand {
         let rin = n[Math.floor(Math.random() * n.length)]
         return void this.client.sendMessage(M.from, { url: rin }, MessageType.video, {quoted:M.WAMessage,
             mimetype: Mimetype.gif,
-            caption: `HOW MUCH CAN YOU SEE WHAT THAT EYES OF YOURS \n` }
+            caption: `HOW MUCH CAN YOU SEE WITH THAT EYES OF YOURS \n` }
         )
     }
 }
