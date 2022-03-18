@@ -31,21 +31,21 @@ run = async (M: ISimplifiedMessage, parsedArgs: IParsedArgs): Promise<void> => {
         if (exp < 500) {
             role = '🌸 Citizen'
         } else if (exp < 1000) {
-            role = '🔎 Cleric'
+            role = 'Genin'
         } else if (exp < 2000) {
-            role = '🔮 Wizard'
+            role = 'Chunin'
         } else if (exp < 5000) {
-            role = '♦️ Mage'
+            role = 'Jonin'
         } else if (exp < 10000) {
-            role = '🎯 Noble'
+            role = 'TTokubetsu Jonin'
         } else if (exp < 25000) {
-            role = '✨ Elite'
+            role = 'Jonin Commander'
         } else if (exp < 50000) {
-            role = '🔶️ Ace'
+            role = 'ANBU'
         } else if (exp < 75000) {
-            role = '🌀 Hero'
+            role = 'Hokage'
         } else if (exp < 100000) {
-            role = '💎 Supreme'
+            role = 'Rouge Ninja'
         } else {
             role = '❄️ Mystic'
         }
