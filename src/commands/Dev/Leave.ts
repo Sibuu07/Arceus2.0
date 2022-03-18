@@ -1,9 +1,6 @@
 import MessageHandler from '../../Handlers/MessageHandler'
 import BaseCommand from '../../lib/BaseCommand'
 import WAClient from '../../lib/WAClient'
-import { MessageType, Mimetype } from '@adiwajshing/baileys'
-import { join } from 'path'
-import BaseCommand from '../../lib/BaseCommand'
 import { ISimplifiedMessage } from '../../typings'
 
 export default class Command extends BaseCommand {
@@ -18,9 +15,9 @@ export default class Command extends BaseCommand {
             baseXp: 0
         })
     }
-                                           
+
     run = async (M: ISimplifiedMessage): Promise<void> => {
-        await M.reply(`*bye* 👋`)
+        await M.reply(`./assets/ITACHI/leave.mp4`)
         await this.client.groupLeave(M.from).catch(() => M.reply('Failed to leave the Group'))
     }
 }
