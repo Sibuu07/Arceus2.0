@@ -20,7 +20,7 @@ export default class Command extends BaseCommand {
 
     run = async (M: ISimplifiedMessage): Promise<void> => {
     await M.reply( await request.buffer(`./assests/ITACHI/leave.mp4`),
-        MessageType.mp4,
+        MessageType.video,
                     undefined,
                     undefined,
                     `*Bye* 👋\n`,
