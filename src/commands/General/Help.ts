@@ -206,7 +206,7 @@ const weeb = [
 const txt = '\n' +
     `│⋊ ᴜꜱᴇʀ: *${M.sender.username}*\n` +
     '│⋊ ɴᴀᴍᴇ:. ❟❛❟ *UCHIHA ITACHI\n' +
-    '│⋊ ᴘʀᴇꜰɪx: #\n' +
+    '│⋊ ᴘʀᴇꜰɪx: ${this.client.config.prefix}\n' +
     '│⋊ ᴏᴡɴᴇʀ: <#mod>\n' +
     '╰────────────┈平和                            \n' +
     '\n' +
