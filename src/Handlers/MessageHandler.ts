@@ -114,7 +114,7 @@ export default class MessageHandler {
 				return void M.reply(`*ONLY OWNERS CAN USE THIS COMMANDSS!*`);
 			}
 			if (command.config?.adminOnly && !M.sender.isAdmin)
-				return void M.reply(`*ONLY GROUP CAN USE THIS COMMAND!*`);
+				return void M.reply(`*ONLY GROUP ADMINS CAN USE THIS COMMAND!*`);
 			try {
 				await command.run(M, this.parseArgs(args));
 				if (command.config.baseXp) {
