@@ -37,7 +37,7 @@ export default class Command extends BaseCommand {
             }
             let text = `
 │⋊ ᴜꜱᴇʀ: *${M.sender.username}*
-│⋊ ɴᴀᴍᴇ: ITACHI UCHIHA
+│⋊ ɴᴀᴍᴇ: ❟❛❟ *UCHIHA ITACHI*
 │⋊ ᴘʀᴇꜰɪx: ${this.client.config.prefix}
 │⋊ ᴏᴡɴᴇʀ: <${this.client.config.prefix}mod>
 ╰────────────┈平和                            \n\n`
@@ -53,7 +53,7 @@ export default class Command extends BaseCommand {
             caption: `${text}
  ──❅┈[ UCHIHA BOTS ]┈❅───
 ┌────────────┈❅
-│   🧨 ITACHI
+│   ❟❛❟ ITACHI
 │   ©️ Synthesized Infinity Botto
 └────────────┈⁂
 🎗 *Note: Use ${this.client.config.prefix}help <command_name> to view the command info*` }
