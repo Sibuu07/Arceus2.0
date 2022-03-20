@@ -3,9 +3,6 @@
 <a href="https://ibb.co/pPscxYs"><img src="https://i.ibb.co/26LxyGL/4834078.jpg" alt="4834078" border="0"></a>
 
 # **ITACHI : ANIME THEMED WHATSAPP BOT WITH RICH FEATURES**
-
-[![CodeFactor](https://www.codefactor.io/repository/github/oreki-san/rin/badge)](https://www.codefactor.io/repository/github/oreki-san/rin)
-
 ## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]() [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
 > A Fully Modular and Efficient Bot <br>
