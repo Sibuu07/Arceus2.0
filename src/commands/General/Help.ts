@@ -207,7 +207,7 @@ const txt = '\n' +
     `│⋊ ᴜꜱᴇʀ: *${M.sender.username}*\n` +
     '│⋊ ɴᴀᴍᴇ:. ❟❛❟ *UCHIHA ITACHI\n' +
     '│⋊ ᴘʀᴇꜰɪx: ${this.client.config.prefix}\n' +
-    '│⋊ ᴏᴡɴᴇʀ: <#mod>\n' +
+    '│⋊ ᴏᴡɴᴇʀ: <${this.client.config.prefix}mod>\n' +
     '╰────────────┈平和                            \n' +
     '\n' +
     '🚀 *Fun*🚀\n' +
@@ -247,9 +247,9 @@ const txt = '\n' +
     '• ```calculator, covid, define, elements, github, urbandictionary, weather```\n' +
     '\n' +
     ' \n' +
-    ' ──❅┈[UCHIHA BOTS ]┈❅───\n' +
+    ' ──❅┈[ *UCHIHA BOTS* ]┈❅───\n' +
     '┌────────────┈❅\n' +
-    '│   ❟❛❟ ITACHI\n'  +
+    '│   ❟❛❟ITACHI\n'  +
     '│   ©️ Synthesized Infinity Botto\n' +
     '└────────────┈⁂\n' +
     '🚀 *Note: Use #help <command_name> to view the command info*'
