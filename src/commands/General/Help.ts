@@ -46,7 +46,7 @@ export default class Command extends BaseCommand {
             let text = `
           
             │⋊ ᴜꜱᴇʀ: *${M.sender.username}*
-            │⋊ ɴᴀᴍᴇ: ITACHI UCHIHA
+            │⋊ ɴᴀᴍᴇ: ❟❛❟ *UCHIHA ITACHI*
             │⋊ ᴘʀᴇꜰɪx: ${this.client.config.prefix}
             │⋊ ᴏᴡɴᴇʀ: <${this.client.config.prefix}mod>
             ╰────────────┈平和                            \n\n`
@@ -205,7 +205,7 @@ const weeb = [
 ]
 const txt = '\n' +
     `│⋊ ᴜꜱᴇʀ: *${M.sender.username}*\n` +
-    '│⋊ ɴᴀᴍᴇ:. ITACHI UCHIHA\n' +
+    '│⋊ ɴᴀᴍᴇ:. ❟❛❟ *UCHIHA ITACHI\n' +
     '│⋊ ᴘʀᴇꜰɪx: #\n' +
     '│⋊ ᴏᴡɴᴇʀ: <#mod>\n' +
     '╰────────────┈平和                            \n' +
@@ -247,9 +247,9 @@ const txt = '\n' +
     '• ```calculator, covid, define, elements, github, urbandictionary, weather```\n' +
     '\n' +
     ' \n' +
-    ' ──❅┈[ UCHIHA BOTS ]┈❅───\n' +
+    ' ──❅┈[UCHIHA BOTS ]┈❅───\n' +
     '┌────────────┈❅\n' +
-    '│   🧨 ITACHI\n'  +
+    '│   ❟❛❟ ITACHI\n'  +
     '│   ©️ Synthesized Infinity Botto\n' +
     '└────────────┈⁂\n' +
     '🚀 *Note: Use #help <command_name> to view the command info*'
@@ -282,7 +282,7 @@ this.client.sendMessage(M.from,button,MessageType.listMessage)
 //             caption: `${text}
 //  ──❅┈[UCHIHA BOTS]┈❅───
 // ┌────────────┈❅
-// │   🧨 ITACHI
+// │   ❟❛❟ ITACHI
 // │   ©️ Synthesized Infinity Botto
 // └────────────┈⁂
 // 🎗 *Note: Use ${this.client.config.prefix}help <command_name> to view the command info*` }
