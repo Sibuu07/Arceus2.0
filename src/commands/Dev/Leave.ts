@@ -17,9 +17,9 @@ export default class Command extends BaseCommand {
     }
 
     run = async (M: ISimplifiedMessage): Promise<void> => {
-        await M.reply( await request.buffer(`https://i.ibb.co/3d7hDSZ/thumb-1920-1114169.jpg`),
-        MessageType.vedio,
-        await M.reply(`*bye bye* 👋`)
+        await M.reply( await request.buffer(`https://c.tenor.com/z27v22_kuZgAAAPo/itachi-uchiha-ninjutsu.mp4`),
+        MessageType.video,
+        await M.reply(`*Sayonara* 👋`)
         await this.client.groupLeave(M.from).catch(() => M.reply('Failed to leave the Group'))
     }
 }
