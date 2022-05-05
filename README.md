@@ -10,7 +10,7 @@
 Button : To Deploy
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/NemasisDarkX/ITACHI.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/akumasugi/Itachi.git)
 
 
 </div><br/>
