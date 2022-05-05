@@ -48,7 +48,7 @@ export default class Command extends BaseCommand {
             │⋊ ᴜꜱᴇʀ: *${M.sender.username}*
             │⋊ ɴᴀᴍᴇ: ❟❛❟ *UCHIHA ITACHI*
             │⋊ ᴘʀᴇꜰɪx: ${this.client.config.prefix}
-            │⋊ ᴏᴡɴᴇʀ: <${this.client.config.prefix}mod>
+            │⋊ ᴏᴡɴᴇʀ: 𝐀𝐊𝐔𝐌𝐀
             ╰────────────┈平和                            \n\n`
     //         const keys = Object.keys(categories)
     //         for (const key of keys)
@@ -207,7 +207,7 @@ const txt = '\n' +
     `│⋊ ᴜꜱᴇʀ: *${M.sender.username}*\n` +
     '│⋊ ɴᴀᴍᴇ:. ❟❛❟ *UCHIHA ITACHI\n' +
     '│⋊ ᴘʀᴇꜰɪx: ${this.client.config.prefix}\n' +
-    '│⋊ ᴏᴡɴᴇʀ: <${this.client.config.prefix}mod>\n' +
+    '│⋊ ᴏᴡɴᴇʀ: 𝐀𝐊𝐔𝐌𝐀' +
     '╰────────────┈平和                            \n' +
     '\n' +
     '🚀 *Fun*🚀\n' +
