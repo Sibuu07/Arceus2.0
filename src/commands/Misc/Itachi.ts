@@ -11,7 +11,7 @@ export default class Command extends BaseCommand {
             command: 'itachi',
             description: 'Displays the info.',
             category: 'misc',
-            usage: `${client.config.prefix}rin`
+            usage: `${client.config.prefix}itachi`
         })
     }
 
@@ -22,7 +22,7 @@ export default class Command extends BaseCommand {
         let rin = n[Math.floor(Math.random() * n.length)]
         return void this.client.sendMessage(M.from, { url: rin }, MessageType.video, {quoted:M.WAMessage,
             mimetype: Mimetype.gif,
-            caption: `🎗 *UCHIHA ITACHI*\n\n⚜ *Description: Maintained fork of void* \n\n ⭐*URL-https://github.com/NemasisDarkX/ITACHI.git* \n` }
+            caption: `🎗 *UCHIHA ITACHI*\n\n⚜ *Description: Genjustu on that level doesn't work on me* \n\n ⭐*insta ID-https://www.instagram.com/akuma__24/?hl=en* \n` }
         )
     }
 }
