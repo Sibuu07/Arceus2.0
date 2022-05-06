@@ -1,5 +1,5 @@
 {
-    "name": "ITACHI",
+    "name": "ARCEUS",
     "description": "Maintained Fork of Void",
     "keywords": [
         "bot",
@@ -11,8 +11,8 @@
         "whatsapp-sticker-bot",
         "whatsapp-botto"
     ],
-    "website": "https://github.com/akumasugi/Itachi#readme",
-    "repository": "https://github.com/akumasugi/Itachi.git",
+    "website": "https://github.com/Sibuu07/Arceus2.0#readme",
+    "repository": "https://github.com/Sibuu07/Arceus2.0.git",
     "logo": "https://c.tenor.com/NoxWr8mFz1sAAAAd/itachi-uchiha.gif",
     "success_url": "/",
     "env": {
